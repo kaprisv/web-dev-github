@@ -1,1 +1,3 @@
 Nadam se prvi valjani kommit!
+
+I krecemo sa komitama v2
