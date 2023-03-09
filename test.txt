@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Jos jedan u mizu komita koje pravim!
+=======
+evo jos jedan komit
+>>>>>>> feature
 
 I krecemo sa komitama v2
